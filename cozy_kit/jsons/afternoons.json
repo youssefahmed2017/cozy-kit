@@ -1,0 +1,24 @@
+{
+  "afternoons": [
+    {
+      "name": "Midday Momentum",
+      "content": "The afternoon is proof that you made it through the morning. Keep going — the best part of your day might still be ahead."
+    },
+    {
+      "name": "Halfway There",
+      "content": "You're halfway through the day. Take a breath, stretch a little, and remember: progress, not perfection."
+    },
+    {
+      "name": "Golden Hours",
+      "content": "The afternoon light is golden for a reason. It's telling you to slow down just enough to notice what you've already accomplished."
+    },
+    {
+      "name": "A Small Pause",
+      "content": "Even the sun takes a moment at its peak before beginning its descent. You're allowed to pause, too."
+    },
+    {
+      "name": "Keep The Rhythm",
+      "content": "Afternoons can feel heavy — but that's just gravity reminding you you're still here, still moving, still doing the thing."
+    }
+  ]
+}
