@@ -21,17 +21,19 @@ person = Greeting(
 
 ## Available Functions
 
-| Function           | Description                      |
-|--------------------|----------------------------------|
-| `welcome()`        | Welcomes the user                |
-| `bye(destination)` | Says goodbye                     |
-| `good_morning()`   | Returns a morning quote          |
-| `good_afternoon()` | Returns an afternoon quote       |
-| `good_evening()`   | Returns an evening quote         |
-| `good_night()`     | Returns a bedtime story          |
-| `auto_greet()`     | Automatically selects a greeting |
-| `motivate()`       | Returns a motivational quote     |
-| `fun_facts()`      | Returns a random fun fact        |
+| Function           | Description                                         |
+|--------------------|-----------------------------------------------------|
+| `welcome()`        | Welcomes the user                                   |
+| `bye(destination)` | Says goodbye                                        |
+| `good_morning()`   | Returns a morning quote                             |
+| `good_afternoon()` | Returns an afternoon quote                          |
+| `good_evening()`   | Returns an evening quote                            |
+| `good_night()`     | Returns a bedtime story                             |
+| `auto_greet()`     | Automatically selects a greeting                    |
+| `motivate()`       | Returns a motivational quote                        |
+| `fun_facts()`      | Returns a random fun fact                           |
+| `add_bedtime_story()`| Adds a bedtime story to the bedtime stories database|
+
 
 ---
 
