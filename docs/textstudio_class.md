@@ -31,6 +31,7 @@ text_editor = TextStudio()
 | `remove_spaces(text)`                    | Removes spaces                  |
 | `snake(text)`                            | Converts text to snake_case     |
 | `remove_punctuation(text)`               | Removes punctuation             |
+| `cozy_box(text)`                         | Put a cool box around the text  |
 
 ---
 
