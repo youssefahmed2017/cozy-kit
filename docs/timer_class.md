@@ -20,6 +20,9 @@ timer = Timer()
 |----------------------------------------------------------|--------------------------------|
 | `countdown(count, time_type, show)`                      | Starts a countdown             |
 | `pomodoro(work_time, break_time, long_break_time, show)` | Starts a Pomodoro timer        |
+| `pause_pomodoro()`                                       | Pauses the Pomodoro timer      |
+|  `resume_pomodoro()`                                     | Resumes the Pomodoro timer     |
+| `stop_pomodoro()`                                        | Stops the pomodoro             |
 | `wait(count, time_type)`                                 | Sleeps for a specific duration |
 | `get_time()`                                             | Returns the current time       |
 | `start_stopwatch()`                                      | Starts the stopwatch           |
