@@ -85,7 +85,7 @@ print(info.github)
 
 ---
 
-# [See the entire docs](https://cozy-docs-27xdiooln-youssefahmed2017s-projects.vercel.app/)
+<a href="https://cozy-docs.vercel.app" target="_blank">See the entire docs</a>
 
 ---
 
