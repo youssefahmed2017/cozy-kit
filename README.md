@@ -1,5 +1,3 @@
-<img width="1680" height="915" alt="image" src="https://github.com/user-attachments/assets/7dd4e7c8-5fc3-40da-9c8d-a08dcba5ec18" /># cozy-kit
-
 > A cozy Python package with greetings, quotes, bedtime stories, timers, and text utilities.
 
 Created by **Youssef Ahmed**
