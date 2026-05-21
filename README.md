@@ -2,12 +2,13 @@
 
 > A cozy Python package with greetings, quotes, bedtime stories, timers, and text utilities.
 
-Created by **Youssef**
+Created by **Youssef Ahmed**
 
 ---
+
 # Requirements
 
-- Python +3.8
+- Python 3.8+
 
 ---
 
@@ -19,8 +20,6 @@ Created by **Youssef**
 pip install cozy-kit
 ```
 
-
-
 ## Upgrade
 
 ```bash
@@ -30,7 +29,9 @@ pip install --upgrade cozy-kit
 ---
 
 # Quick Example
+
 ## Usage
+
 ```python
 from cozy_kit import Greeting
 
@@ -43,6 +44,7 @@ print(user.welcome())
 ```
 
 ## Output
+
 ```text
 Welcome Youssef!
 Or welcome Yoyo!
@@ -50,40 +52,45 @@ Or welcome Yoyo!
 
 ---
 
-# Other Docs
+# Classes
 
-- [Greeting Class](https://github.com/youssefahmed2017/cozy-kit/blob/main/docs/greeting_class.md)
-
-- [Timer Class](https://github.com/youssefahmed2017/cozy-kit/blob/main/docs/timer_class.md)
-
-- [TextStudio Class](https://github.com/youssefahmed2017/cozy-kit/blob/main/docs/textstudio_class.md)
-
-- [Quick Summary Of Everything](https://github.com/youssefahmed2017/cozy-kit/blob/main/docs/summary.md)
+| Class        | Description                                                |
+|--------------|------------------------------------------------------------|
+| `Greeting`   | Greetings, quotes, bedtime stories, motivations, fun facts |
+| `Timer`      | Countdown, Pomodoro, stopwatch, wait                       |
+| `TextStudio` | Text conversion, ciphers, formatting                       |
+| `Details`    | Package metadata                                           |
 
 ---
 
-# Quick Note
-### If you want to access something outside that is not __versio (like author), You can't type:
+# Accessing Package Details
+
+To access metadata like the author name, use the `Details` class:
+
 ```python
-from cozy_kit import *
-
-print(__author__)
-```
-### You need to type:
-```python
-from cozy_kit import *
-
-# Create Object
-__details__ = Details.__details__
-
-print(__details__['author'])
-
-# or
-
 from cozy_kit import Details
 
-# Create Object
-__details__ = Details.__details__
-
-print(__details__['author'])
+info = Details()
+print(info.details["author"])
+# Youssef Ahmed
 ```
+
+You can also access individual attributes directly:
+
+```python
+from cozy_kit import Details
+
+info = Details()
+print(info.author)
+print(info.github)
+```
+
+---
+
+# [See the entire docs](https://youssef.ahmedabdou.net/cozy-kit/cozy-docs/index.html)
+
+---
+
+# License
+
+MIT
