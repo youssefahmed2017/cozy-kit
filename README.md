@@ -54,12 +54,14 @@ Or welcome Yoyo!
 
 # Classes
 
-| Class        | Description                                                |
-|--------------|------------------------------------------------------------|
-| `Greeting`   | Greetings, quotes, bedtime stories, motivations, fun facts |
-| `Timer`      | Countdown, Pomodoro, stopwatch, wait                       |
-| `TextStudio` | Text conversion, ciphers, formatting                       |
-| `Details`    | Package metadata                                           |
+| Class                | Description                                                |
+|----------------------|------------------------------------------------------------|
+| `Greeting`           | Greetings, quotes, bedtime stories, motivations, fun facts |
+| `Timer`              | Countdown, Pomodoro, stopwatch, wait                       |
+| `TextEditor`         | Text conversion, ciphers, formatting                       |
+| `TextCustomizations` | Text coloring, changing to italic or bold                  |
+| `CozyUI`             | Make some cool terminal UI using ascii and unicode symbols |
+| `Details`            | Package metadata                                           |
 
 ---
 
