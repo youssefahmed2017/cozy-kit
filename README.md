@@ -61,31 +61,8 @@ Or welcome Yoyo!
 | `TextEditor`         | Text conversion, ciphers, formatting                       |
 | `TextCustomizations` | Text coloring, changing to italic or bold                  |
 | `CozyUI`             | Make some cool terminal UI using ascii and unicode symbols |
+| `settings (Object)`  | Package settings like [notice if on older update](https://cozy-docs.vercel.app/#settings)
 | `Details`            | Package metadata                                           |
-
----
-
-# Accessing Package Details
-
-To access metadata like the author name, use the `Details` class:
-
-```python
-from cozy_kit import Details
-
-info = Details()
-print(info.details["author"])
-# Youssef Ahmed
-```
-
-You can also access individual attributes directly:
-
-```python
-from cozy_kit import Details
-
-info = Details()
-print(info.author)
-print(info.github)
-```
 
 ---
 
