@@ -66,7 +66,11 @@ Or welcome Yoyo!
 
 ---
 
-<h2><a href="https://cozy-docs.vercel.app" target="_blank">See the entire docs</a></h2>
+<h2><a href="https://cozykit-home.vercel.app" target="_blank">See the Homepage</a></h2>
+
+or
+
+<h2><a href="https://cozy-docs.vercel.app" target="_blank">See the entire Docs</a></h2>
 
 ---
 
