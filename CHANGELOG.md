@@ -15,3 +15,14 @@ with more details
 - Renamed `pomodoro` to `start_pomodoro`
 - Added the cozy-kit logo to `README.md`
   
+## v1.0.3
+### Bug Fixes
+- Fixed the `ImportError`
+
+### Features
+- Made `--version` also have `-V`
+- Addeed `--license` to the CLI
+- Addeed `--pypi` to the CLI
+- Addeed `--github` to the CLI
+- Addeed `--homepage` to the CLI
+- Addeed `--docs` to the CLI
