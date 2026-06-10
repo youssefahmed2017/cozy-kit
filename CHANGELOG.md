@@ -1,7 +1,6 @@
 # CHANGELOG
 ## v1.0.1
-- Expanded ```bash
-cozy-kit --info```
+- Expanded ```cozy-kit --info```
 with more details
 
 - Added `project.urls` to `pyproject.toml`
@@ -26,3 +25,8 @@ with more details
 - Addeed `--github` to the CLI
 - Addeed `--homepage` to the CLI
 - Addeed `--docs` to the CLI
+
+## v1.0.4
+### Features
+- Made the CLI beautiful with Rich
+- Added SMTPMailer
