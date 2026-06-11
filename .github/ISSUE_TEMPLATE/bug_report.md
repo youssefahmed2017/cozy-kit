@@ -26,3 +26,4 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. ]
  - IDE [e.g. PyCharm, VS Code]
  - cozy-kit Version [e.g. v1.0.3]
+ - python Version [e.g. 3.11.9]
