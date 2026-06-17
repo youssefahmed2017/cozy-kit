@@ -127,20 +127,6 @@ print(ui.progress_bar(70))
 
 ---
 
-# Classes
-
-| Class                | Description                                                |
-|----------------------|------------------------------------------------------------|
-| `Greeting`           | Greetings, quotes, bedtime stories, motivations, fun facts |
-| `Timer`              | Countdown, Pomodoro, stopwatch, wait                       |
-| `TextEditor`         | Text conversion, ciphers, formatting                       |
-| `TextCustomizations` | Text coloring, changing to italic or bold                  |
-| `CozyUI`             | Make some cool terminal UI using ascii and unicode symbols |
-| `settings (object)`  | The package settings like `notice_if_on_older_update`      |
-| `Details`            | Package metadata                                           |
-
----
-
 # Why cozy-kit?
 
 cozy-kit is a collection of utilities for Python developers.
