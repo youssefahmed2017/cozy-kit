@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this cozy-kitr
+about: Suggest an idea for this cozy-kit
 title: ''
 labels: ''
 assignees: ''

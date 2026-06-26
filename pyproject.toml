@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cozy-kit"
-version = "1.0.5"
+version = "1.0.6"
 description = "A cozy collection of utilities and tools for Python"
 readme = "README.md"
 authors = [
@@ -35,7 +35,6 @@ dependencies = [
 keywords = [
     "python",
     "utilities",
-    "timers",
     "toolkit",
     "terminal"
 ]
@@ -51,7 +50,6 @@ cozy-kit = "cozy_kit.cli:main"
 
 [tool.setuptools]
 include-package-data = true
-packages = ["cozy_kit"]
 
 [tool.setuptools.package-data]
 cozy_kit = ["resources/*.json"]
