@@ -148,6 +148,9 @@ Features include:
 
 ## [See the entire Documentation](https://cozy-docs.vercel.app)
 
+> [!WARNING]
+> This project won't get updates for a very long time cuz I have more projects to work on
+
 ---
 
 # License
