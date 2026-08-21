@@ -1,5 +1,10 @@
 # cozy-kit
 
+> [!WARNING]
+> This project won't get updates for a very long time cuz I have more projects to work on
+> However I will not archive it I wanted to just note that it will stop getting updates
+> You could revive it with your community version as the license is MIT
+
 ![Logo](https://raw.githubusercontent.com/youssefahmed2017/cozy-kit/main/cozy-logo.png)
 
 ![Version](https://img.shields.io/pypi/v/cozy_kit)
@@ -147,9 +152,6 @@ Features include:
 ## or
 
 ## [See the entire Documentation](https://cozy-docs.vercel.app)
-
-> [!WARNING]
-> This project won't get updates for a very long time cuz I have more projects to work on
 
 ---
 
